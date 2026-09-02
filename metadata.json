@@ -1,7 +1,0 @@
-{
-  "name": "Portfólio Autoral",
-  "description": "Sistema completo e autoral de portfólio pessoal com CMS integrado, Supabase, Design Tokens dinâmicos e acessibilidade WCAG 2.2 AA.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
